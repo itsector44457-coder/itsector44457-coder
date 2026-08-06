@@ -16,6 +16,7 @@
 ---
 
 💻 Tech Stack:
+---
 Python || R || Azure || MySQL || MicrosoftSQLServer || Canva || Figma || Adobe Premiere Pro || Matplotlib || NumPy || Pandas || Plotly || Power Bi || HTML5
 
 ---
